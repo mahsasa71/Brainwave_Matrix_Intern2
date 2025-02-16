@@ -80,7 +80,7 @@ export default function ProductCart(props) {
           </button>
         ) : (
           <p className="text-red-500 font-bold">
-            برای ثبت سفارش لاگین کنید
+    To place an order ypu must log in!
           </p>
         )}
       </div>
