@@ -79,7 +79,9 @@ export default function ProductCart(props) {
             Add To Cart
           </button>
         ) : (
-          <p className="text-red-500 font-bold">برای ثبت سفارش لاگین کنید</p>
+          <p className="text-red-500 font-bold">
+            برای ثبت سفارش لاگین کنید
+          </p>
         )}
       </div>
     </div>
